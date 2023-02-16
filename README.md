@@ -1,1 +1,1 @@
-### SIMPLE HTML JAVASCRIPT PROJECT USING BOOTSTRAP FOR STYLING 
+### Html, Javascript, and Bootstrap project using api!

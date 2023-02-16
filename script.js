@@ -1,6 +1,9 @@
 let details = document.querySelector(".details");
+
 let imgContainer = document.querySelector(".img-container");
+
 let getUserBtn = document.getElementById('get-user-btn');
+
 let url = "https://random-data-api.com/api/v2/users?response_type=json";
 
 let getUser = () => {
